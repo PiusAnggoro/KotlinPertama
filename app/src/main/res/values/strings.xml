@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Pertamaku</string>
+    <string name="hello_world_text">Halo Semesta</string>
+    <string name="random_heading">Ini adalah bilangan acak dari 0 sampai %1d</string>
+</resources>
